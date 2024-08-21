@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.error_container{
+    display: flex;
+    justify-content: center;
+    
+}
+.error_message{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    color:#fff;
+    width:70%;
+    background-color: red;
+    padding: 10px;
+    font-size:25px;
+    border-radius: 17px;
+    box-shadow: 2px 2px #000;
+    
+}

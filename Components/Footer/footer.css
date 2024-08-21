@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer{
+   width: auto;
+    
+}
+.footer_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.footer_image{
+    width: 70px;
+    margin: 0px 130px;   
+}
+.footer_text{
+    margin: 0px 130px;
+}
+.footer_contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.footer_buttons{
+    display: flex;
+    gap: 10px;
+    width: 30px;
+    height: 30px;
+}
